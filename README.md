@@ -11,3 +11,9 @@ Testing Xubuntu Git SSH Connection.
 -> ~/.config/gtk-3.0/guide_css.txt
 
 -> /usr/local/share/fonts/Monocraft.ttf
+
+## Gruvbox-dark/xfwm4
+
+-> Modifications *.xpm for xfce window manager.
+
+-> 
